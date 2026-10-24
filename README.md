@@ -22,7 +22,7 @@ Formato de Saída e Entrega:
 Não escreva introduções, resumos, tutoriais ou conclusões. Entregue o inventário mais longo e completo possível de uma só vez.
 
 Exemplo de formato esperado:
-1. Dify.ai - https://dify.ai - LLMOps e agentes visuais
+1. (Dify.ai)  [https://dify.ai] - LLMOps e agentes visuais
 2. Langflow - https://langflow.org - Canvas visual multi-agente
 3. Flowise - https://flowiseai.com - Orquestração LangChain visual
 4. Stack AI - https://stack-ai.com - Workflows e automações enterprise
